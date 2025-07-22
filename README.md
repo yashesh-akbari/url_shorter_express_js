@@ -19,6 +19,16 @@ A simple and clean URL shortener built with **Node.js** and **Express**, storing
 
 ```
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+
+  <h2>📁 Project Structure</h2>
+  <pre>
 project/
 │
 ├── public/
@@ -30,6 +40,11 @@ project/
 │
 ├── app.js                  # Main server logic (Node.js + Express)
 └── README.md
+  </pre>
+
+</body>
+</html>
+
 
 ````
 
